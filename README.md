@@ -28,9 +28,12 @@ The goal of this project is not to evaluate products or organizations,
 but to **observe structural patterns** that affect developer time,
 learning cost, and productivity at scale.
 
-This observation is crucial because unexpected volatility in development environments leads to massive, invisible economic losses.
+Over time, this work aims to help reduce incidental time costs — such as
+re-learning user interfaces or responding to frequent specification changes —
+that do not directly contribute to value creation.
 
-![Economic Impact of Structural Volatility](https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/assets/images/fig2_en.png)
+Such observations matter because unexpected volatility in development environments
+is associated with significant, often invisible economic losses over time.
 
 ---
 
@@ -205,18 +208,23 @@ or dispute resolution.
 
 ## 目的（Purpose）
 
-Developer Experience Observatory は、
-実際の開発現場で発生する **想定外の時間コスト**
-（学習、調査、待機、再実装など）を収集・分析する
+**Developer Experience Observatory** は、実際のソフトウェア開発現場において
+開発者が直面している **予期せぬ時間コスト** を収集・分析するための、
 中立的な観測プロジェクトです。
 
-本プロジェクトの目的は、特定の製品や組織を評価することではなく、
-開発者の時間や学習コストに影響を与える
-**構造的な傾向を観測すること**にあります。
+本プロジェクトの目的は、特定の製品や組織を評価・批判することではなく、
+開発者の時間、学習コスト、生産性に影響を与える **構造的なパターン** を
+スケールの観点から観測することにあります。
 
-この観察は非常に重要です。なぜなら、開発環境における予期せぬ変動は、目に見えない巨額の経済的損失につながるからです。
+この取り組みは、時間の経過とともに、
+UI を学び直すことや頻繁な仕様変更への対応といった、
+価値創出に直接つながらない付随的な時間コストを
+減らすことに寄与することを目指しています。
 
-![Economic Impact of Structural Volatility](https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/assets/images/fig2_jp_2.png)
+こうした観測は重要です。
+なぜなら、開発環境における予期せぬ変動性は、
+長期的には大きく、しかも見えにくい経済的損失と
+結びついているからです。
 
 ---
 
