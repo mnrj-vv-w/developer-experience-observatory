@@ -9,8 +9,6 @@
 
 ## English
 
-![Economic Impact of Structural Volatility](https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/assets/images/cover_en.png)
-
 # Developer Experience Observatory
 
 An open, neutral observatory for measuring  
@@ -195,8 +193,6 @@ or dispute resolution.
 ---
 
 ## Japanese
-
-![Economic Impact of Structural Volatility](https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/assets/images/cover_jp.png)
 
 # Developer Experience Observatory
 
