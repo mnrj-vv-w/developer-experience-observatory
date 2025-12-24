@@ -1,3 +1,5 @@
+![Economic Impact of Structural Volatility](https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/assets/images/cover_en.png)
+
 # Developer Experience Observatory / 開発者体験観測所
 
 > Tracking and documenting breaking changes in developer tools  
@@ -25,6 +27,10 @@ in real-world software development environments.
 The goal of this project is not to evaluate products or organizations,
 but to **observe structural patterns** that affect developer time,
 learning cost, and productivity at scale.
+
+This observation is crucial because unexpected volatility in development environments leads to massive, invisible economic losses.
+
+![Economic Impact of Structural Volatility](https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/assets/images/fig2_en.png)
 
 ---
 
