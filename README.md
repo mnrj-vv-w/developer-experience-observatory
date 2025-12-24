@@ -1,5 +1,3 @@
-![Economic Impact of Structural Volatility](https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/assets/images/cover_en.png)
-
 # Developer Experience Observatory / 開発者体験観測所
 
 > Tracking and documenting breaking changes in developer tools  
@@ -10,6 +8,8 @@
 ---
 
 ## English
+
+![Economic Impact of Structural Volatility](https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/assets/images/cover_en.png)
 
 # Developer Experience Observatory
 
@@ -193,6 +193,8 @@ or dispute resolution.
 
 ## Japanese
 
+![Economic Impact of Structural Volatility](https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/assets/images/cover_jp.png)
+
 # Developer Experience Observatory
 
 実際のソフトウェア開発現場における  
@@ -211,6 +213,10 @@ Developer Experience Observatory は、
 本プロジェクトの目的は、特定の製品や組織を評価することではなく、
 開発者の時間や学習コストに影響を与える
 **構造的な傾向を観測すること**にあります。
+
+この観察は非常に重要です。なぜなら、開発環境における予期せぬ変動は、目に見えない巨額の経済的損失につながるからです。
+
+![Economic Impact of Structural Volatility](https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/assets/images/fig2_jp_2.png)
 
 ---
 
