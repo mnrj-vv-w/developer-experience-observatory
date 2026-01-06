@@ -190,6 +190,14 @@ please open a GitHub Issue.
 This project does not provide individual support
 or dispute resolution.
 
+## Share your experience
+
+This paper on developer experience and hidden time costs
+is continuously updated based on real-world observations.
+
+You can share your experience anonymously here:
+https://app.formbricks.com/s/cmk2p4dpa4wyfad01a4xvlg19
+
 ---
 
 ## Japanese
@@ -366,3 +374,11 @@ GitHub Issue / Pull Request で行ってください。
 GitHub Issue にてお願いします。
 
 個別案件の対応や紛争解決は行いません。
+
+## あなたの経験を共有しましょう
+
+開発者のエクスペリエンスと隠れた時間コストに関するこの論文は、
+実際の観察に基づいて継続的に更新されています。
+
+匿名であなたの経験を共有できます:
+https://app.formbricks.com/s/cmk2p4dpa4wyfad01a4xvlg19
